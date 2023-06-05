@@ -1,0 +1,35 @@
+The śrī rudram as referred to nowadays consists of two parts viz. the namakam and the camakam.
+
+The namakam is based on is based on the 11 anuvāka-s of Tāittirīya-saṁhitā́ 4.5 and the camakam is based on is based on the first 11 anuvāka-s of Tāittirīya-saṁhitā́ 4.7.
+
+Note that the śrī rudram is not a 'vedic' chant, but rather a chant based on the parts of the Tāittirīya-saṁhitā́ given above. Extra mantra-s have been added.
+
+The verse you are refering to "oṃ namaste astu bhagavan viśveśvarāya mahādevāya tryambakāya tripurāntakāya trikālāgnikālāya kālāgnirudrāya nīlakaṇṭhāya mṛtyuṃjayāya sarveśrvarāya sadāśivāya śrīman mahādevāya namaḥ" is not part of the original rudra-praśna or the rudrādhyāya. It is a later addition.
+
+Want proof? Take a look for yourself on TITUS:
+
+Verse: 4  
+Sentence: 1    párā tā́ bʰagavo vapa // 
+Sentence: 2=l    avatátya dʰánus tváṁ sáhasrākṣa śáteṣudʰe / niśī́rya śalyā́nām múkʰā śivó naḥ sumánā bʰava // 
+Sentence: 3=m    víjyaṃ dʰánuḥ kapardíno víśalyo bā́ṇavāṁ utá / áneśann asyéṣava ābʰúr asya niṣaṅgátʰiḥ // 
+Sentence: 4=n    yā́ te hetír mīḍʰuṣṭama háste babʰū́va te dʰánuḥ / táyāsmā́n viśvátas tvám ayakṣamáyā pári bʰuja // 
+Sentence: 5=o    námas te astv ā́yudʰāyā́nātatāya dʰr̥ṣṇáve / ubʰā́bʰyām utá te námo bāhúbʰyāṃ táva dʰánvane // 
+Sentence: 6=p    pári te dʰánvano hetír asmā́n vr̥ṇaktu viśvátaḥ / átʰo yá iṣudʰís távāré asmán ní dʰehi tám // 
+
+Paragraph: 2  
+Verse: 1  
+Sentence: 1=a    námo híraṇyabāhave senānyè diśā́ṃ ca pátaye námas \ 
+Sentence: 2=b    námo vr̥kṣébʰyo hárikeśebʰyaḥ paśūnā́m pátaye námas \ 
+Sentence: 3=c    námaḥ saspíñjarāya tvíṣīmate patʰīnā́m pátaye námas \ 
+Sentence: 4=d    námo babʰluśā́ya vivyādʰíné 'nnānām pátaye námas \ 
+Sentence: 5=e    námo hárikeśāyopavītíne puṣṭā́nām pátaye námas \ 
+Sentence: 6=f    námo bʰavásya hetyái jágatām pátaye námas \ 
+Sentence: 7=g    námo rudrā́yātatāvine kṣétrāṇām pátaye námas \ 
+Sentence: 8=h    námaḥ sūtā́yā́hantyāya vánānām pátaye námas \ 
+Sentence: 9=i    námaḥ // 
+
+As we can see it ends with "dhehi tám" and immediately goes to "námo híraṇya-bāhave..."
+
+References:
+
+https://titus.uni-frankfurt.de/texte/etcs/ind/aind/ved/yvs/ts/ts.htm
