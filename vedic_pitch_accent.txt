@@ -1,0 +1,62 @@
+The Şākala şā́khā has 3 accents viz. udātta (acute), anudātta (grave), and a third known as svarita (circumflex).
+
+In simple terms the anudātta is the lowest of the pitches, and the udātta is the highest of the accents. The svarita is a falling accent that starts at the udātta pitch and goes down to anudātta, though some say that it starts slightly lower than the udātta.
+
+But generally Pā́ṇini describes the svarita as starting at udātta and going to anudātta (1.2.32).
+
+I'll give an example with mantra 1 (the first two pāda-s_ of the Şākala-şā́khā-saṁhitā́, ascribed to Maddhuchandas :
+
+अ॒ग्निमी॑ळे पु॒रोहि॑तं य॒ज्ञस्य॑ दे॒वमृ॒त्विज॑म्
+
+In the Şākala-şā́khā, the andātta is denoted by a lower horizontal mark (_) and the svarita is denoted by an upper vertical mark ('), the udātta is unmarked. The whole point of the anudātta and the svarita is to indicate where the udātta is to be given.
+
+So we start at the normal lowest pitch at अ॒, then we rise to the highest pitch at ग्नि, then we fall from the highest pitch to the lowest pitch at मी॑, it continues with a the lowest pitch for ळे, and the same goes for पु॒, a rise for रो, a fall for हि॑, continuing with low for तं, same goes for य॒, a rise for ज्ञ, a fall for स्य॑, low for दे॒, a rise for व, low for मृ॒, a rise for त्वि, a fall for ज॑म्.
+
+So in transliteration it would be:
+
+a agním īḷe puróhitaṁ —◡　——　◡—◡—　(8)
+
+b yajñásya devám r̥tvíjam ——◡　—◡　—◡—　(8)
+The Tāittirīya şā́khā has 4 accents, the udātta, anudātta, svarita, and the dīrgha svarita.
+
+The system is slightly altered, where the svarita is now pronounced even higher than udātta, some say as a means to indicate the place of the udātta even better. The dīrgha svarita, is an extended svarita, where initially it is at the udātta level, and then rises above the udātta. This has also been used now in the Şākala şā́khā.
+
+I'll again use the mantra 1 of the Tāittirīya-şā́khā
+
+इषे त्वोर्जे त्व 
+वायवः॑ स्थोपायवः॑ स्थ
+
+As we can see it starts with a lowest इ then rises at षे, back at the normal lowest with त्वोर्, rises with जे, and now goes above udātta even at त्वा. It's at the normal lowest at वा, then rises at य, and goes even higher at वः, and just like in Şākala it starts up again at anudātta with स्थो, continuing at पा, rising at य, again going higher at वः, and going to anudātta because of the svarita before it at स्थ.
+
+And hence:
+
+Sentence: 1=a iṣé tvorjé tvā stʰa
+
+Sentence: 2=b vāyáva stʰopāyáva
+
+Do note that the current style of recitation is not the same as the original vedic pitch recitation, the modern R̥g-vedá style will contain more dīrgha svarita-s.
+
+We can even find this in Pā́ṇini's Áṣṭā-'dhy-āyī
+
+उच्चैरुदात्तः 1.2.29
+
+The vowel that is perceived as having a high tone is called {Udâtta} or acutely accented
+
+नीचैरनुदात्तः 1.2.30
+
+The vowel that is perceived as having a low tone is called Anudâtta or gravely accented
+
+समाहारः स्वरितः 1.2.31
+
+The vowel that has the combination of {Udâtta} and {Anudâtta} tones is said to be {svarita} or circumflexly accented.
+
+तस्यादित उदात्तमर्धह्रस्वम् 1.2.32
+
+Of it (svarita) the first portion is {udâtta}, to the extent of a half measure, or prosodial length.
+References:
+
+Svaramanjari of Narasimha
+
+https://www.advaita-vedanta.org/archives/advaita-l/2009-February/021338.html
+
+Pā́ṇini's Áṣṭā-'dhy-āyī
